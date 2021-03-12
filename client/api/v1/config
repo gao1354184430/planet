@@ -19,7 +19,7 @@
     "Wechat": "2"
   },
   "hosts": [
-    "https://www.gkdcloud.xyz",
-    "http://kr.nodeapi.club"
+    "https://k.gkdcloud.xyz",
+    "http://www.gkdcloud.xyz"
   ]
 }
