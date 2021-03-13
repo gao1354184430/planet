@@ -19,7 +19,6 @@
     "Wechat": "2"
   },
   "hosts": [
-    "https://k.gkdcloud.xyz",
-    "http://gkdcloud.xyz"
+    "https://www.gkdcloud.xyz"
   ]
 }
